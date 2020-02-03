@@ -8,4 +8,5 @@ My first interactive Flutter app that runs on both iOS and Android. From this ap
 * Creating a route and adding a logic for moving between the home route and the new route.
 * Learned about changing the look of the app's UI using themes.
 
-![strtupApp1](img/strtup1.png) ![strtupApp2](img/strtup1.png)
+![strtupApp1](img/strtup1.png | width="50px") 
+![strtupApp2](img/strtup1.png | width="50px")
