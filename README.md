@@ -9,4 +9,4 @@ My first interactive Flutter app that runs on both iOS and Android. From this ap
 * Learned about changing the look of the app's UI using themes.
 
 ![strtupApp1](img/strtup1.png) 
-![strtupApp2](img/strtup1.png)
+![strtupApp2](img/strtup2.png)
